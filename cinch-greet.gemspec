@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Cinch::Plugins::Greet::VERSION
   spec.authors       = ['Brian Haberer']
   spec.email         = ['bhaberer@gmail.com']
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{cinch greet}
+  spec.summary       = %q{Greet people with silly things!}
   spec.homepage      = 'https://github.com/bhaberer/cinch-greet'
   spec.license       = 'MIT'
 
