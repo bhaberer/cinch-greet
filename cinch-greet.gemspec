@@ -24,5 +24,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency  'cinch-test'
 
   spec.add_dependency              'cinch',           '~> 2.0.12'
-  spec.add_dependency              'cinch-storage',   '~> 1.1.1'
+  spec.add_dependency              'cinch-storage',   '~> 1.1.0'
 end
