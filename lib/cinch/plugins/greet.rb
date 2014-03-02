@@ -3,7 +3,7 @@ require 'cinch/storage'
 module Cinch::Plugins
   class Greet
 
-    listen :join
+    listen_to :join
     match /greet (\w+) with (.+)/, react_on: :private
 
     def initialize(*args)
